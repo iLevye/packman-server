@@ -1,0 +1,25 @@
+{
+  "name": "packman-server",
+  "version": "1.0.0",
+  "description": "Online Packman Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iLevye/packman-server.git"
+  },
+  "author": "PXON",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iLevye/packman-server/issues"
+  },
+  "homepage": "https://github.com/iLevye/packman-server#readme",
+  "dependencies": {
+    "websocket": "^1.0.28"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
